@@ -1,6 +1,10 @@
 
 # Spinning-Machine-Sensors-Interface
-An attempt to interface different sensors to be uploaded to a database with either ESP8266 or Raspberry PI4 Wireless Connection. Added With PCB Design. 
+An attempt to interface various sensors to be uploaded to a database with either ESP8266 or Raspberry PI4 Wireless Connection. Added With PCB Design. 
+
+
+![image](https://user-images.githubusercontent.com/72569245/126104299-38629f60-70cd-450e-8258-7b8aec7ab247.png)
+
 
 
 # Hardware Prototype
